@@ -1,0 +1,7 @@
+weather realtime api url:
+https://api.tomorrow.io/v4/weather/realtime?location=42.3478,-71.0466&apikey=lfaXlJ9GsxW3cnvU7rPERXisCT4ZgwQy
+
+
+const url="https://api.tomorrow.io/v4/weather/realtime?location=42.3478,-71.0466&apikey=lfaXlJ9GsxW3cnvU7rPERXisCT4ZgwQy"
+
+const url2="https://api.mapbox.com/search/geocode/v6/forward?q=Los%20Angeles&access_token=pk.eyJ1Ijoic3dldGUyMjkiLCJhIjoiY2x4MjNpcjZvMGdiYjJqczRuMzZocndkZCJ9.Ut1zrmPtFtF6v3jilZLJTw&limit=1"
